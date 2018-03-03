@@ -1,0 +1,9 @@
+c:\users\owen\documents\visual studio 2017\Projects\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csprojResolveAssemblyReference.cache
+c:\users\owen\documents\visual studio 2017\Projects\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Form1.resources
+c:\users\owen\documents\visual studio 2017\Projects\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.Properties.Resources.resources
+c:\users\owen\documents\visual studio 2017\Projects\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.csproj.GenerateResource.Cache
+c:\users\owen\documents\visual studio 2017\Projects\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe.config
+c:\users\owen\documents\visual studio 2017\Projects\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.exe
+c:\users\owen\documents\visual studio 2017\Projects\WindowsFormsApp12\WindowsFormsApp12\bin\Debug\WindowsFormsApp12.pdb
+c:\users\owen\documents\visual studio 2017\Projects\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.exe
+c:\users\owen\documents\visual studio 2017\Projects\WindowsFormsApp12\WindowsFormsApp12\obj\Debug\WindowsFormsApp12.pdb
